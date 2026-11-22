@@ -44,3 +44,17 @@ h1, h2 {
 section {
     padding: 20px;
 }
+.order-btn {
+    display: inline-block;
+    margin-top: 20px;
+    background: #f6d365;
+    color: #083d63;
+    padding: 12px 24px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.order-btn:hover {
+    background: #ffd700;
+}
